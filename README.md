@@ -1,6 +1,6 @@
 # Vitality.Health
 
-Vitality.Health is a static, informational healthcare-focused web project hosted on GitHub Pages.
+Vitality.Health is a static.
 
 ⚠️ **Disclaimer**  
 This project is for **educational and informational purposes only**.  
